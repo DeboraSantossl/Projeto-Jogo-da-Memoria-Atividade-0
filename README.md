@@ -1,4 +1,3 @@
-# Jogo-da-memoria-atividade1
 **Projeto: Jogo da Memoria**
 
 ✅//*Especificacoes Tecnicas Obrigatorias*
